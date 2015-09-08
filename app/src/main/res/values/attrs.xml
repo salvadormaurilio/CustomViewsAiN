@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomViewCanvas">
+        <attr name="llnea_color" format="color"/>
+        <attr name="linea_width" format="dimension"/>
+    </declare-styleable>
+</resources>    
